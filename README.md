@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashsk154
-- 👀 I’m interested in oops Concept,c,cpp
+- 👀 I’m interested in oops Concept,c,cpp,java and java advance
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 7887462311
